@@ -5,3 +5,6 @@ Install all dependencies (testing dependent packages)
 
 Run the main program
 "node index.js"
+
+Run all tests cases
+"npm test test/run.testcases.js"
