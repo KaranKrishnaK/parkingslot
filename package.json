@@ -1,0 +1,11 @@
+{
+    "name": "simpleparkinglot",
+    "version": "0.0.1",
+    "description": "Data Algorithm for parking lot problem",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "author": "Karan Krishna K",
+    "dependencies": {}
+}
